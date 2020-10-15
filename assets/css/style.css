@@ -1081,7 +1081,7 @@ section .container {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgb(0, 0, 0) !important;
   position: fixed;
   left: 0;
   right: 0;
